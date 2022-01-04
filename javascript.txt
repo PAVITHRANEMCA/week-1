@@ -1,0 +1,2 @@
+                                                                          JavaScript
+                                                        is a programming language .That conforms to ECMA script specification . java script is high-level . often just-in-time compiled . It has curly-bracket syntax, dynamic typing it is designed by netscape, Brandan eich  . This language bothon the client-side and server-side that allows you to make web pages interactives.
